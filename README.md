@@ -13,4 +13,5 @@
 - **Vuforia**：AR場景構建與影像追蹤技術。
 - **C#腳本**：實現功能邏輯與互動效果。
 
-![image](https://github.com/user-attachments/assets/a959bc7b-58b8-45a6-9c85-74fcd47c5a66)
+![image](https://github.com/user-attachments/assets/7c8085eb-978d-4804-91fa-be0c9018e0a9)
+
