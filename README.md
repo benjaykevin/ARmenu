@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4410d14-1584-45c6-8f4d-607e15cebe02)# AR菜單原型專案
+# AR菜單原型專案
 
 本專案是一款基於Unity開發的AR菜單原型，旨在探索AR技術於餐飲行業的應用。專案功能包括切換菜品模型、旋轉、放大縮小及還原等基本操作，並提供直觀的UI介面以提升使用者體驗。
 
