@@ -18,8 +18,8 @@
 
 ## 介面
 - **菜單介紹**:藉由紙本菜單的照片作為觸發物，掃描紙本菜單即可呈現3D模型。
+
 ![image](https://github.com/user-attachments/assets/80b36567-5385-441a-bee7-864a2f8d4dd0)
-- **操作說明**：掃描菜單照片顯示對應的模型。
 ![image](https://github.com/user-attachments/assets/e52bc681-9d6b-4f1b-9308-05114cd89472)
 ![image](https://github.com/user-attachments/assets/52ea9aa9-114f-4bfb-bc7d-c51f9becc8e5)
 ![image](https://github.com/user-attachments/assets/4ba34fe4-aa6e-46a2-b44c-ec9f7530714b)
